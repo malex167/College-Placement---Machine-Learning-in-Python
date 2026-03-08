@@ -1,0 +1,6 @@
+*.py text diff=python
+*.pyi text diff=python
+*.pyw text diff=python
+*.pyx text diff=python
+*.pxd text diff=python
+*.pyz text diff=python
